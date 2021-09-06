@@ -6,7 +6,7 @@
                   
 ### Instagram auto followers
 
-# Tech Cochi 
+# Arshasd Ser 
 
 [![Build Status](https://img.shields.io/github/forks/rixon-cochi/Lucifer.svg)](https://github.com/rixon-cochi/Lucifer)
 [![Build Status](https://img.shields.io/github/stars/rixon-cochi/Lucifer.svg)](https://github.com/rixon-cochi/Lucifer)
@@ -28,7 +28,7 @@
 
 * `apt install git`
 
-* `git clone https://github.com/rixon-cochi/Lucifer.git`
+* `git clone https://github.com/arshad-dk/Lucifer/`
 
 * `ls`
 
@@ -43,7 +43,7 @@
 * `bash instacracker.sh`
 
 
-# Code by tech cochi
+# Re-Code by arshad-dk
 
 # Warning
 
@@ -53,6 +53,6 @@
 # [+] Find Me on :
 
 
-[![Github](https://img.shields.io/badge/Github-TECH--COCHI-green?style=for-the-badge&logo=github)](https://github.com/rixon-cochi)
-[![YouTube](https://img.shields.io/badge/youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/HYDRAGAMING4U)
+[![Github](https://img.shields.io/badge/Github-arshad--dk-green?style=for-the-badge&logo=github)](https://github.com/arshad-dk)
+[![YouTube](https://img.shields.io/badge/Instagram-arshad--dk-red?style=for-the-badge&logo=youtube)](https://www.instagram.com/arshad_dk_)
 
